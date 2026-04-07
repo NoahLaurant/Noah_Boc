@@ -1,0 +1,37 @@
+h1{
+    color: red;
+}
+/* je créer la classe bleu qui mettra le texte en bleu*/
+/*couleur de texte*/
+.bleu{
+    color: blue;
+}
+.rose{
+    color: pink;
+}
+/*texte*/
+h3{
+    font-size: 50px;
+}
+p{
+    font-size: 19px;
+    color: blue;
+}
+
+/*fond coloré*/
+
+.bg-red-vif{
+    background-color:  red;
+
+}
+.bg-rouge-pale{
+    background-color: #FFD7D7;
+
+}
+li{
+    font-weight: 600;
+}
+.bold{
+    font-weight: 600;
+}
+
